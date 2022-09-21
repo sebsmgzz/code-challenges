@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseBits", "ReverseBits\ReverseBits.csproj", "{46C35BC1-93D5-47FA-9DE3-2BDAF3BE2C2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstraAlgorithm", "DijkstraAlgorithm\DijkstraAlgorithm.csproj", "{679BED7A-FE36-474C-A523-99D7D894AD8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{46C35BC1-93D5-47FA-9DE3-2BDAF3BE2C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46C35BC1-93D5-47FA-9DE3-2BDAF3BE2C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46C35BC1-93D5-47FA-9DE3-2BDAF3BE2C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46C35BC1-93D5-47FA-9DE3-2BDAF3BE2C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679BED7A-FE36-474C-A523-99D7D894AD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679BED7A-FE36-474C-A523-99D7D894AD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679BED7A-FE36-474C-A523-99D7D894AD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679BED7A-FE36-474C-A523-99D7D894AD8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B7BEDABF-5E8E-4576-8EB8-84F5D9D2651B}
+		SolutionGuid = {EC4CA484-3B82-4F3B-913D-FE91AF8AD6E0}
 	EndGlobalSection
 EndGlobal
